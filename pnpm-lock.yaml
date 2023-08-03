@@ -1,4 +1,4 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
 
 settings:
   autoInstallPeers: true
@@ -498,7 +498,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   app:
     devDependencies:
@@ -660,7 +660,7 @@ importers:
         version: 7.0.12(vue@3.3.4)
       '@storybook/vue3-vite':
         specifier: 7.0.12
-        version: 7.0.12(react-dom@18.0.0)(react@18.0.0)(typescript@5.0.4)(vite@4.3.7)(vue@3.3.4)
+        version: 7.0.12(react-dom@18.0.0)(react@18.0.0)(typescript@5.0.4)(vite@4.3.9)(vue@3.3.4)
       '@tinymce/tinymce-vue':
         specifier: 5.1.0
         version: 5.1.0(vue@3.3.4)
@@ -720,7 +720,7 @@ importers:
         version: 0.5.4
       '@vitejs/plugin-vue':
         specifier: 4.2.3
-        version: 4.2.3(vite@4.3.7)(vue@3.3.4)
+        version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/test-utils':
         specifier: 2.3.2
         version: 2.3.2(vue@3.3.4)
@@ -857,8 +857,8 @@ importers:
         specifier: 5.0.4
         version: 5.0.4
       vite:
-        specifier: 4.3.7
-        version: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+        specifier: 4.3.9
+        version: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vitest:
         specifier: 0.31.1
         version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
@@ -965,22 +965,22 @@ importers:
         version: link:../tsconfig
       '@histoire/plugin-vue':
         specifier: 0.16.1
-        version: 0.16.1(histoire@0.16.1)(vite@4.3.7)(vue@3.3.4)
+        version: 0.16.1(histoire@0.16.1)(vite@4.3.9)(vue@3.3.4)
       '@histoire/shared':
         specifier: 0.16.1
-        version: 0.16.1(vite@4.3.7)
+        version: 0.16.1(vite@4.3.9)
       '@rollup/plugin-node-resolve':
         specifier: 15.0.2
         version: 15.0.2(rollup@3.22.0)
       '@vitejs/plugin-vue':
         specifier: 4.2.3
-        version: 4.2.3(vite@4.3.7)(vue@3.3.4)
+        version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vitest/coverage-c8':
         specifier: 0.31.1
         version: 0.31.1(vitest@0.31.1)
       histoire:
         specifier: 0.16.1
-        version: 0.16.1(vite@4.3.7)
+        version: 0.16.1(vite@4.3.9)
       rollup-plugin-node-externals:
         specifier: 6.1.1
         version: 6.1.1(rollup@3.22.0)
@@ -988,14 +988,14 @@ importers:
         specifier: 5.0.4
         version: 5.0.4
       vite:
-        specifier: 4.3.7
-        version: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+        specifier: 4.3.9
+        version: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vite-plugin-dts:
         specifier: 2.3.0
-        version: 2.3.0(rollup@3.22.0)(vite@4.3.7)
+        version: 2.3.0(rollup@3.22.0)(vite@4.3.9)
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/composables:
     dependencies:
@@ -1038,7 +1038,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/constants:
     dependencies:
@@ -1087,7 +1087,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/data-driver-postgres:
     dependencies:
@@ -1127,7 +1127,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/data-sql:
     devDependencies:
@@ -1157,7 +1157,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/errors:
     devDependencies:
@@ -1187,7 +1187,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/extensions-sdk:
     dependencies:
@@ -1223,7 +1223,7 @@ importers:
         version: 3.0.1(rollup@3.22.0)
       '@vitejs/plugin-vue':
         specifier: 4.2.3
-        version: 4.2.3(vite@4.3.7)(vue@3.3.4)
+        version: 4.2.3(vite@4.3.9)(vue@3.3.4)
       chalk:
         specifier: 5.2.0
         version: 5.2.0
@@ -1255,8 +1255,8 @@ importers:
         specifier: 4.0.0
         version: 4.0.0(rollup@3.22.0)
       vite:
-        specifier: 4.3.7
-        version: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+        specifier: 4.3.9
+        version: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vue:
         specifier: 3.3.4
         version: 3.3.4
@@ -1278,7 +1278,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/pressure:
     dependencies:
@@ -1303,7 +1303,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/random:
     devDependencies:
@@ -1324,7 +1324,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/release-notes-generator:
     dependencies:
@@ -1355,7 +1355,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/schema:
     dependencies:
@@ -1433,7 +1433,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/storage-driver-azure:
     dependencies:
@@ -1461,7 +1461,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/storage-driver-cloudinary:
     dependencies:
@@ -1492,7 +1492,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/storage-driver-gcs:
     dependencies:
@@ -1520,7 +1520,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/storage-driver-local:
     dependencies:
@@ -1545,7 +1545,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/storage-driver-s3:
     dependencies:
@@ -1582,7 +1582,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/stores:
     dependencies:
@@ -1638,7 +1638,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/tsconfig: {}
 
@@ -1780,7 +1780,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   packages/validation:
     dependencies:
@@ -1814,7 +1814,7 @@ importers:
         version: 5.0.4
       vitest:
         specifier: 0.31.1
-        version: 0.31.1(jsdom@22.0.0)
+        version: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
 
   tests/blackbox:
     devDependencies:
@@ -5426,11 +5426,11 @@ packages:
       '@hapi/hoek': 9.3.0
     dev: false
 
-  /@histoire/app@0.16.1(vite@4.3.7):
+  /@histoire/app@0.16.1(vite@4.3.9):
     resolution: {integrity: sha512-13komnhVk1Pk0wMmkJKDPWT8RKpA5HfAbeeXSHAq29pvFP9Faq+dAa62g1wqOpoyJD5C7SkI0OPI3eJwJHgTiQ==}
     dependencies:
-      '@histoire/controls': 0.16.1(vite@4.3.7)
-      '@histoire/shared': 0.16.1(vite@4.3.7)
+      '@histoire/controls': 0.16.1(vite@4.3.9)
+      '@histoire/shared': 0.16.1(vite@4.3.9)
       '@histoire/vendors': 0.16.0
       '@types/flexsearch': 0.7.3
       flexsearch: 0.7.21
@@ -5439,7 +5439,7 @@ packages:
       - vite
     dev: true
 
-  /@histoire/controls@0.16.1(vite@4.3.7):
+  /@histoire/controls@0.16.1(vite@4.3.9):
     resolution: {integrity: sha512-Ot/J/LPzUexn+fLrJrWu3jUakx9aVSJWKnriiJSmEodAxJq+4mrprX3xS0bnzieud19pJc3mzC/MSD94urTbHA==}
     dependencies:
       '@codemirror/commands': 6.2.4
@@ -5449,24 +5449,24 @@ packages:
       '@codemirror/state': 6.2.1
       '@codemirror/theme-one-dark': 6.1.2
       '@codemirror/view': 6.13.2
-      '@histoire/shared': 0.16.1(vite@4.3.7)
+      '@histoire/shared': 0.16.1(vite@4.3.9)
       '@histoire/vendors': 0.16.0
     transitivePeerDependencies:
       - vite
     dev: true
 
-  /@histoire/plugin-vue@0.16.1(histoire@0.16.1)(vite@4.3.7)(vue@3.3.4):
+  /@histoire/plugin-vue@0.16.1(histoire@0.16.1)(vite@4.3.9)(vue@3.3.4):
     resolution: {integrity: sha512-K7ZZl5tA8PWHjQsWFmFX3xa4HlRs+S8+nxym1Smh4dudQ6XSVwdF+gsPQ+RE4zwf6YQ8HDPsvOobI31dz6F4Tg==}
     peerDependencies:
       histoire: ^0.16.1
       vue: ^3.2.47
     dependencies:
-      '@histoire/controls': 0.16.1(vite@4.3.7)
-      '@histoire/shared': 0.16.1(vite@4.3.7)
+      '@histoire/controls': 0.16.1(vite@4.3.9)
+      '@histoire/shared': 0.16.1(vite@4.3.9)
       '@histoire/vendors': 0.16.0
       change-case: 4.1.2
       globby: 13.1.4
-      histoire: 0.16.1(vite@4.3.7)
+      histoire: 0.16.1(vite@4.3.9)
       launch-editor: 2.6.0
       pathe: 0.2.0
       vue: 3.3.4
@@ -5474,7 +5474,7 @@ packages:
       - vite
     dev: true
 
-  /@histoire/shared@0.16.1(vite@4.3.7):
+  /@histoire/shared@0.16.1(vite@4.3.9):
     resolution: {integrity: sha512-bcySHGC6kcZ1U9OZUcBQCROTBygTZ9T9MlqfeGtBtJWXGdmHPZ/64elZOY36O8gUAMF89Q08EIVe5cIQ0SJ3Uw==}
     peerDependencies:
       vite: ^2.9.0 || ^3.0.0 || ^4.0.0
@@ -5485,7 +5485,7 @@ packages:
       chokidar: 3.5.3
       pathe: 0.2.0
       picocolors: 1.0.0
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
     dev: true
 
   /@histoire/vendors@0.16.0:
@@ -7340,7 +7340,7 @@ packages:
       - supports-color
     dev: true
 
-  /@storybook/builder-vite@7.0.12(typescript@5.0.4)(vite@4.3.7):
+  /@storybook/builder-vite@7.0.12(typescript@5.0.4)(vite@4.3.9):
     resolution: {integrity: sha512-6FJNXis+dYs/KrhfRQgz8HcRw/Oq4FaEghCwsjngQDy4PcpQuxkDbvGJKlBaSr92vUL36FWSPq8u5+VGCHjh5Q==}
     peerDependencies:
       '@preact/preset-vite': '*'
@@ -7376,7 +7376,7 @@ packages:
       remark-slug: 6.1.0
       rollup: 3.22.0
       typescript: 5.0.4
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -7780,7 +7780,7 @@ packages:
       file-system-cache: 2.1.1
     dev: true
 
-  /@storybook/vue3-vite@7.0.12(react-dom@18.0.0)(react@18.0.0)(typescript@5.0.4)(vite@4.3.7)(vue@3.3.4):
+  /@storybook/vue3-vite@7.0.12(react-dom@18.0.0)(react@18.0.0)(typescript@5.0.4)(vite@4.3.9)(vue@3.3.4):
     resolution: {integrity: sha512-SdAGfBRfm4cR9VNLRcBCLo3rTzeUTvZfyh5ll0cgInCo9gTxwfs1Y4zEmmVqDDOWQ7qlpJanITNGFGiSsdvRmg==}
     engines: {node: ^14.18 || >=16}
     peerDependencies:
@@ -7788,14 +7788,14 @@ packages:
       react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
       vite: ^3.0.0 || ^4.0.0
     dependencies:
-      '@storybook/builder-vite': 7.0.12(typescript@5.0.4)(vite@4.3.7)
+      '@storybook/builder-vite': 7.0.12(typescript@5.0.4)(vite@4.3.9)
       '@storybook/core-server': 7.0.12
       '@storybook/vue3': 7.0.12(vue@3.3.4)
-      '@vitejs/plugin-vue': 4.2.3(vite@4.3.7)(vue@3.3.4)
+      '@vitejs/plugin-vue': 4.2.3(vite@4.3.9)(vue@3.3.4)
       magic-string: 0.27.0
       react: 18.0.0
       react-dom: 18.0.0(react@18.0.0)
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vue-docgen-api: 4.72.3(vue@3.3.4)
     transitivePeerDependencies:
       - '@preact/preset-vite'
@@ -8722,14 +8722,14 @@ packages:
       eslint-visitor-keys: 3.4.1
     dev: true
 
-  /@vitejs/plugin-vue@4.2.3(vite@4.3.7)(vue@3.3.4):
+  /@vitejs/plugin-vue@4.2.3(vite@4.3.9)(vue@3.3.4):
     resolution: {integrity: sha512-R6JDUfiZbJA9cMiguQ7jxALsgiprjBeHL5ikpXfJCH62pPHtI+JdJ5xWj6Ev73yXSlYl86+blXn1kZHQ7uElxw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^4.0.0
       vue: ^3.2.25
     dependencies:
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vue: 3.3.4
 
   /@vitest/coverage-c8@0.31.1(vitest@0.31.1):
@@ -8742,7 +8742,7 @@ packages:
       magic-string: 0.30.0
       picocolors: 1.0.0
       std-env: 3.3.3
-      vitest: 0.31.1(jsdom@22.0.0)
+      vitest: 0.31.1(happy-dom@9.18.3)(sass@1.62.1)
     dev: true
 
   /@vitest/expect@0.31.1:
@@ -13293,16 +13293,16 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /histoire@0.16.1(vite@4.3.7):
+  /histoire@0.16.1(vite@4.3.9):
     resolution: {integrity: sha512-TIzJ0Wqe8epfTYMd7yuS0Zcuy86ysJ5t4p6qt0zjHAinoNgEH2M9biHtuKQzd96/QuUy3oc2dcXiFLFSZGdSyw==}
     hasBin: true
     peerDependencies:
       vite: ^2.9.0 || ^3.0.0 || ^4.0.0
     dependencies:
       '@akryum/tinypool': 0.3.1
-      '@histoire/app': 0.16.1(vite@4.3.7)
-      '@histoire/controls': 0.16.1(vite@4.3.7)
-      '@histoire/shared': 0.16.1(vite@4.3.7)
+      '@histoire/app': 0.16.1(vite@4.3.9)
+      '@histoire/controls': 0.16.1(vite@4.3.9)
+      '@histoire/shared': 0.16.1(vite@4.3.9)
       '@histoire/vendors': 0.16.0
       '@types/flexsearch': 0.7.3
       '@types/markdown-it': 12.2.3
@@ -13329,7 +13329,7 @@ packages:
       sade: 1.8.1
       shiki-es: 0.2.0
       sirv: 2.0.3
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vite-node: 0.28.4
     transitivePeerDependencies:
       - '@types/node'
@@ -21466,7 +21466,7 @@ packages:
       picocolors: 1.0.0
       source-map: 0.6.1
       source-map-support: 0.5.21
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -21487,7 +21487,7 @@ packages:
       mlly: 1.2.1
       pathe: 1.1.0
       picocolors: 1.0.0
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -21498,7 +21498,7 @@ packages:
       - terser
     dev: true
 
-  /vite-plugin-dts@2.3.0(rollup@3.22.0)(vite@4.3.7):
+  /vite-plugin-dts@2.3.0(rollup@3.22.0)(vite@4.3.9):
     resolution: {integrity: sha512-WbJgGtsStgQhdm3EosYmIdTGbag5YQpZ3HXWUAPCDyoXI5qN6EY0V7NXq0lAmnv9hVQsvh0htbYcg0Or5Db9JQ==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -21514,15 +21514,15 @@ packages:
       kolorist: 1.8.0
       magic-string: 0.29.0
       ts-morph: 18.0.0
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
     transitivePeerDependencies:
       - '@types/node'
       - rollup
       - supports-color
     dev: true
 
-  /vite@4.3.7(@types/node@20.2.0)(sass@1.62.1):
-    resolution: {integrity: sha512-MTIFpbIm9v7Hh5b0wSBgkcWzSBz7SAa6K/cBTwS4kUiQJfQLFlZZRJRQgqunCVzhTPCk674tW+0Qaqh3Q00dBg==}
+  /vite@4.3.9(@types/node@20.2.0)(sass@1.62.1):
+    resolution: {integrity: sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -21560,14 +21560,14 @@ packages:
     dependencies:
       '@docsearch/css': 3.3.5
       '@docsearch/js': 3.3.5(@algolia/client-search@4.17.0)
-      '@vitejs/plugin-vue': 4.2.3(vite@4.3.7)(vue@3.3.4)
+      '@vitejs/plugin-vue': 4.2.3(vite@4.3.9)(vue@3.3.4)
       '@vue/devtools-api': 6.5.0
       '@vueuse/core': 10.1.2(vue@3.3.4)
       body-scroll-lock: 4.0.0-beta.0
       mark.js: 8.11.1
       minisearch: 6.1.0
       shiki: 0.14.2
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vue: 3.3.4
     transitivePeerDependencies:
       - '@algolia/client-search'
@@ -21637,7 +21637,7 @@ packages:
       strip-literal: 1.0.1
       tinybench: 2.5.0
       tinypool: 0.5.0
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vite-node: 0.31.1(@types/node@20.2.0)(sass@1.62.1)
       why-is-node-running: 2.2.2
     transitivePeerDependencies:
@@ -21703,7 +21703,7 @@ packages:
       strip-literal: 1.0.1
       tinybench: 2.5.0
       tinypool: 0.5.0
-      vite: 4.3.7(@types/node@20.2.0)(sass@1.62.1)
+      vite: 4.3.9(@types/node@20.2.0)(sass@1.62.1)
       vite-node: 0.31.1(@types/node@20.2.0)(sass@1.62.1)
       why-is-node-running: 2.2.2
     transitivePeerDependencies:
