@@ -114,8 +114,8 @@ importers:
         specifier: 3.2.4
         version: 3.2.4
       axios:
-        specifier: 1.4.0
-        version: 1.4.0
+        specifier: 1.6.0
+        version: 1.6.0
       busboy:
         specifier: 1.6.0
         version: 1.6.0
@@ -758,8 +758,8 @@ importers:
         specifier: 3.40.0
         version: 3.40.0
       axios:
-        specifier: 1.4.0
-        version: 1.4.0
+        specifier: 1.6.0
+        version: 1.6.0
       babel-loader:
         specifier: '9'
         version: 9.1.3(@babel/core@7.21.8)(webpack@5.83.1)
@@ -1042,8 +1042,8 @@ importers:
         specifier: workspace:*
         version: link:../utils
       axios:
-        specifier: 1.4.0
-        version: 1.4.0
+        specifier: 1.6.0
+        version: 1.6.0
       lodash-es:
         specifier: 4.17.21
         version: 4.17.21
@@ -2120,8 +2120,8 @@ importers:
         specifier: 7.12.0
         version: 7.12.0
       axios:
-        specifier: 1.5.1
-        version: 1.5.1
+        specifier: 1.6.0
+        version: 1.6.0
       globby:
         specifier: 13.2.2
         version: 13.2.2
@@ -10485,18 +10485,8 @@ packages:
     dev: false
     optional: true
 
-  /axios@1.4.0:
-    resolution: {integrity: sha512-S4XCWMEmzvo64T9GfvQDOXgYRDJ/wsSZc7Jvdgx5u1sd0JwsuPLqb3SYmusag+edF6ziyMensPVqLTSc1PiSEA==}
-    dependencies:
-      follow-redirects: 1.15.3
-      form-data: 4.0.0
-      proxy-from-env: 1.1.0
-    transitivePeerDependencies:
-      - debug
-
-  /axios@1.5.1:
-    resolution: {integrity: sha512-Q28iYCWzNHjAm+yEAot5QaAMxhMghWLFVf7rRdwhUI+c2jix2DUXjAHXVi+s1ibs3mjPO/cCgbA++3BjD0vP/A==}
-    requiresBuild: true
+  /axios@1.6.0:
+    resolution: {integrity: sha512-EZ1DYihju9pwVB+jg67ogm+Tmqc6JmhamRN6I4Zt8DfZu5lbcQGw3ozH9lFejSJgs/ibaef3A9PMXPLeefFGJg==}
     dependencies:
       follow-redirects: 1.15.3
       form-data: 4.0.0
@@ -16129,7 +16119,7 @@ packages:
     resolution: {integrity: sha512-po/KtofzrTuKhHLenbmliDsVVOFANwcfDFUGnggwnyZJmZz7JgBlV6nzK9o2Fk+OK2SiBmJTK25RbkAj57Hd+Q==}
     requiresBuild: true
     dependencies:
-      axios: 1.5.1
+      axios: 1.6.0
       base-64: 1.0.0
       url-join: 4.0.1
     transitivePeerDependencies:
