@@ -875,8 +875,8 @@ importers:
         specifier: 7.0.12
         version: 7.0.12
       tinymce:
-        specifier: 6.6.0
-        version: 6.6.0
+        specifier: 7.0.0
+        version: 7.0.0
       typescript:
         specifier: 5.2.2
         version: 5.2.2
@@ -21611,6 +21611,10 @@ packages:
 
   /tinymce@6.6.0:
     resolution: {integrity: sha512-b9Mb7z8ryFOwLm8WCmlpwzdgOt1xD1u5Jjdh68B4QjkIyTLyHRBsfsrbiCUGonnVTymDlkexPkaP8sj24zexKQ==}
+    dev: true
+
+  /tinymce@7.0.0:
+    resolution: {integrity: sha512-ggXLfTRrUALAcjeJSRrZcJDOl6MgC2tPXe/zNOEkQXvTDgcKqFypPRoPpfpK5wejexjyaI/7dwETOntJ5MPBFg==}
     dev: true
 
   /tinypool@0.5.0:
